@@ -146,7 +146,7 @@ def logo():
  |_|  |_|_|_| |_|_|_.__/ \___|\__,_|___/\__|
                                             
                                             
-                     """+bcolors.ENDC+"""(by Shrikant Gade)
+                     """+bcolors.ENDC+"""(by Kapil Chouhan)
                             """)
         print bcolors.ENDC
 
